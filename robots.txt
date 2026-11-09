@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /payment/
+Disallow: /admin
+
+Sitemap: https://ali1338326.github.io/sitemap.xml
